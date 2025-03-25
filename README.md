@@ -30,4 +30,4 @@ scikit-learn==1.5.1
 ```
 
 ## Citation
-This work is based on the paper [EGU-Net: A Deep Learning Approach for Hyperspectral Unmixing]([https://example.com](https://arxiv.org/abs/2105.10194)).
+This work is based on the paper [EGU-Net: A Deep Learning Approach for Hyperspectral Unmixing](https://arxiv.org/abs/2105.10194).
