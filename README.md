@@ -5,6 +5,7 @@ This repository contains code for generating hyperspectral data and performing s
 
 1. **Data Generation (`map_gen.ipynb`)**: This notebook creates synthetic hyperspectral datasets.
 2. **Unmixing and CNN Training (`EGU-Net.ipynb`)**: This notebook preprocesses the generated data, trains a Convolutional Neural Network (CNN) using the EGU-Net architecture, and performs predictions.
+
 An existing Keras implementation of EGU-Net was available, but a major effort was made to rewrite this architecture for a more recent version of Keras.
 
 ## Installation
